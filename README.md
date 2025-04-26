@@ -92,6 +92,3 @@ Your form details submitted: message=HelloWorld
 
 _(The message you submit is saved into `data.txt`.)_
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
